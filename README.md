@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my freelancing brand Gaming Galaxy, while simulatneously looking for my first entry-level software development role to gain some industry experience. I'm currently learning React, React Native, Next.JS, Node.JS and SQL. 
+I'm currently working on my freelancing brand Gaming Galaxy, while simulatneously looking for my second entry-level software development role to gain some more industry experience and stay a bit closer to home. I'm currently learning React, React Native, Next.JS, Node.JS and SQL. 
 
 A fun fact about me is that my career originally started as a graphic designer and video editor, but later changed to full-stack developer once I started to feel how much I loved the creative process of turning a blank project into something with meaning. 
 
